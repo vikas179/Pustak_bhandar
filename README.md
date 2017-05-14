@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Library management system:
 
-Things you may want to cover:
+This is made on Ruby on Rails and database used is sqlite
 
-* Ruby version
+Various Gem files are used like:
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Devise
+2. Searchkick
+3. Rails_admin
+4. Bootstrap etc.
